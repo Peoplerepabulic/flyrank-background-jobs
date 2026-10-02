@@ -1,0 +1,9 @@
+# sqlite db + python caches + local venv
+data/jobs.db
+data/*.db
+__pycache__/
+*.pyc
+.venv/
+bin/            # local inngest dev-server binary (100MB, re-downloadable)
+node_modules/
+.DS_Store
