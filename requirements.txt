@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+inngest
+pydantic>=2
